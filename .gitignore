@@ -174,4 +174,5 @@ cython_debug/
 .env
 
 #pdf files
+papers/
 .pdf
